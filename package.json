@@ -1,0 +1,11 @@
+{
+  "name": "little-ai-agent-in-nodejs",
+  "version": "1.0.0",
+  "description": "A tiny fake AI agent: prompts for a question and answers with canned responses",
+  "type": "module",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "license": "MIT"
+}
